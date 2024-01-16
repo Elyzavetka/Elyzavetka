@@ -4,7 +4,7 @@ Hi My name is Liza
 I am beginner Software Engineer based in London.
 ------------------------------------------------
 
-I recently completed Makers Academy course as a software developer. I am looking for entry position. I have a lot of experience working as a photo retoucher for women's magazines.
+Recently, I completed the Makers Academy bootcamp, with specialism as a software engineer. I have a mathematical brain and I like it when everything is organised and done perfectly. I am sure that those qualities of my character will help me in my tech career. I am looking for entry position. I have a lot of experience working as a photo retoucher for women's magazines.
 
 * 🧠  I'm learning TypeScript, Redux
 
