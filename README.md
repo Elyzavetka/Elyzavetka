@@ -1,7 +1,7 @@
 Hi My name is Liza
 =====================
 
-I am beginner Software Engineer based in London.
+I am a beginner Software Engineer based in London.
 ------------------------------------------------
 
 Recently, I completed the Makers Academy bootcamp, with specialism as a software engineer. I am looking for entry position.
