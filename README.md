@@ -1,4 +1,4 @@
-Hi My name is Liza
+Hi My name is Liza.
 =====================
 
 I am a beginner Software Engineer based in London.
@@ -10,7 +10,7 @@ I have a mathematical brain and I like it when everything is organised and done 
 
 I have a lot of experience working as a photo retoucher for women's magazines. I am also a painter and Art lover.
 
-* 🧠  I'm learning TypeScript, Redux
+* 🧠  I'm learning TypeScript, Redux.
 
 ### Skills
 
