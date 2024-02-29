@@ -4,7 +4,9 @@ Hi 👋 My name is Liza
 I am Junior Full-Stack Software Engineer based in London.
 ------------------------------------------------
 
-Recently, I completed the Makers Academy bootcamp, with specialism as a software engineer. I have a mathematical brain and I like it when everything is organised and done perfectly. In the same time I am also a creative thinker, flexible and adaptable. I am sure that those qualities of my character will help me in my Tech career. I have a lot of experience working for women's magazines as a photo re-toucher . I am also a painter and Art lover.
+I am a junior full-stack developer. I have recently completed the Makers Academy bootcamp, with a specialism as a software engineer. I have a mathematical and organized brain which makes me a great coder. 
+
+Before my journey into tech, I was an experienced photo editor working for women's magazines. I was inspired to move into technology seeing how automation revolutionized teamwork and efficiency within publishing houses. I take pride in delivering high-quality work and helping teams produce elegant and functional products.
 
 Skills 
 <p align="left">
