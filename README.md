@@ -1,7 +1,7 @@
 Hi 👋 My name is Liza
 =====================
 
-I am a Junior Full-Stack Software Engineer based in London.
+I am a Full-Stack Software Engineer based in London.
 ------------------------------------------------
 
 I am a passionate and proactive Junior Full-Stack Engineer. I have a mathematical and organized brain which makes me a great coder. I love not just writing code, but building beautiful reliable products.
