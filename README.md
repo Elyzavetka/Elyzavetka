@@ -4,7 +4,7 @@ Hi 👋 My name is Liza
 I am a Full-Stack Software Engineer based in London.
 ------------------------------------------------
 
-I am a passionate and proactive Full-Stack Engineer. I have a mathematical and organized brain which makes me a great coder. I love not just writing code, but building beautiful reliable products.
+I am a passionate and proactive Full-Stack Engineer. I have a mathematical and organized brain, which makes me a great coder. I love not just writing code, but building beautiful reliable products. At the same time, I am highly visual, which is crucial for the user interface of applications.
 
 Before my journey into Tech, I was an experienced photo editor working for women's magazines. I was inspired to move into technology seeing how automation revolutionized teamwork and efficiency within publishing houses. I take pride in delivering high-quality work and helping teams produce elegant and functional products. Delighted to transfer the teamwork abilities cultivated in magazine work to the field of software development.
 
