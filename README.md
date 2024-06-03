@@ -8,7 +8,7 @@ I am a passionate and proactive Full-Stack Engineer. I have a mathematical and o
 
 Before my journey into Tech, I was an experienced photo editor working for women's magazines. I was inspired to move into technology seeing how automation revolutionized teamwork and efficiency within publishing houses. I take pride in delivering high-quality work and helping teams produce elegant and functional products. Delighted to transfer the teamwork abilities cultivated in magazine work to the field of software development.
 
-Now I am taking part in a charity project and I am learning Docker.
+Now I am taking part in a charity project and I am learning Next.JS.
 
 Skills
 ------
