@@ -10,7 +10,7 @@ Before my journey into Tech, I was an experienced photo editor working for women
 
 Since April 2024 to the present, I have been participating in a charity cat shelter app project. React, Typescript, Redux, Saga, Python, Django, CSS BEM,  Material UI, customize Themes, PostgreSQL, AWS s3, AWS deployment, Docker, Yarn, Pixel Perfect, Agile, Scrum, sprints. 
 
-Now I am learning Next.JS.
+Now I am learning AWS and Next.JS.
 
 Skills
 ------
