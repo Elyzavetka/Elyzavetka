@@ -8,7 +8,7 @@ I am a passionate and proactive Full-Stack Engineer. I have a mathematical and o
 
 Before my journey into Tech, I was an experienced photo editor working for women's magazines. I was inspired to move into technology seeing how automation revolutionized teamwork and efficiency within publishing houses. I take pride in delivering high-quality work and helping teams produce elegant and functional products. Delighted to transfer the teamwork abilities cultivated in magazine work to the field of software development.
 
-I participated in a charity cat shelter app project from April 2024 to August 2024. Tech stack: React, Typescript, Redux, Saga, Python, Django, CSS BEM,  Material UI, customize Themes, PostgreSQL, AWS s3, AWS deployment, Docker, Yarn, Pixel Perfect, Agile, Scrum, sprints. 
+I participated in a group project to build a cat shelter app, which helps find homes for stray cats. Users can report a found cat and submit a request on the website, including the location where the cat was seen. They can also choose a cat to adopt and make donations to support the shelter's work. Tach stack: React, Typescript, Redux, Saga, Python, Django,  Material UI, PostgreSQL, AWS s3, Docker, Yarn, Pixel Perfect, Agile, Scrum, Sprints.
 
 Now I am learning Go.
 
