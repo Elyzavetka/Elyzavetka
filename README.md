@@ -10,7 +10,7 @@ Before my journey into Tech, I was an experienced photo editor working for women
 
 I participated in a group project to build a cat shelter app from April 2024 to August 2024, which helps find homes for stray cats. Users can report a found cat and submit a request on the website, including the location where the cat was seen. They can also choose a cat to adopt and make donations to support the shelter's work. Tach stack: React, Typescript, Redux, Saga, Python, Django,  Material UI, PostgreSQL, AWS s3, Docker, Yarn, Pixel Perfect, Agile, Scrum, Sprints.
 
-Now I am learning Go.
+Now I am learning Go and GraphQL.
 
 Skills
 ------
