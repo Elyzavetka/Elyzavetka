@@ -6,9 +6,9 @@ I am a Full-Stack Software Engineer based in London.
 
 I am a passionate and proactive Full-Stack Engineer. I have a mathematical and organized brain, which makes me a great coder. I love not just writing code, but building beautiful reliable products. At the same time, I am highly visual, which is crucial for the user interface of applications.
 
-I participated in a group project to build a cat shelter app from April 2024 to August 2024, which helps find homes for stray cats. Users can report a found cat and submit a request on the website, including the location where the cat was seen. They can also choose a cat to adopt and make donations to support the shelter's work. Tach stack: React, Typescript, Redux, Saga, Python, Django,  Material UI, PostgreSQL, AWS s3, Docker, Yarn, Pixel Perfect, Agile, Scrum, Sprints.
+I participated in a group project to build a cat shelter app from April 2024 to August 2024, which helps find homes for stray cats. Users can report a cat they found and submit a request on the website, including the location where the cat was seen. They can also choose a cat to adopt and make donations to support the shelter's work. Tech stack: React, Typescript, Redux, Saga, Python, Django, Go,  Material UI, PostgreSQL, AWS s3, Docker, Yarn, Pixel Perfect, Agile, Scrum, Sprints.
 
-Now I am learning Go and GraphQL.
+Now I am learning GraphQL.
 
 Skills
 ------
