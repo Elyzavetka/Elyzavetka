@@ -10,6 +10,8 @@ I participated in a group project to build a cat shelter app from April 2024 to 
 
 Now I am learning GraphQL.
 
+Portfolio: https://lizadev.netlify.app/
+
 Skills
 ------
 <p align="left">
